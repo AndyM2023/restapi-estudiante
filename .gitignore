@@ -1,0 +1,7 @@
+#nunca se va a subir a git
+.env
+
+# node
+node_modules
+dist
+
